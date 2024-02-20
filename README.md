@@ -1,3 +1,7 @@
+# CTI 110 Repository
+Created for P1LAB1
+Douglas
+02/19/2024
 ### Hi there 👋
 
 <!--
